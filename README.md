@@ -22,7 +22,7 @@ The project focuses on achieving a visual interaction using **CSS alone**, witho
 
 ---
 
-## 🎴 
+## 🎴 Features
 
 * 📖 **3D Book Effect**
   A book-like composition created using CSS 3D transforms, perspective, and layered images.
