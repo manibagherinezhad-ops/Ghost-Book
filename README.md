@@ -1,4 +1,4 @@
-# 📖 Ghost 
+# 📖 Ghost Book
 
 > An interactive 3D book animation built from scratch with **HTML & CSS**, featuring perspective effects and CSS hover interactions.
 
