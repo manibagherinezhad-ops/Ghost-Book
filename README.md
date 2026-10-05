@@ -4,7 +4,7 @@
 
 ---
 
-## 🖤 About The 
+## 🖤 About The Project
 
 **Ghost Book** is a small front-end project created to practice and showcase **CSS 3D effects, perspective, positioning, and interactive animations**.
 
