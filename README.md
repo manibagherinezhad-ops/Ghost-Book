@@ -16,7 +16,7 @@ The project focuses on achieving a visual interaction using **CSS alone**, witho
 
 ---
 
-## 🌐 Live 
+## 🌐 Live Demo
 
 📖 **[View the Live Website](https://manibagherinezhad-ops.github.io/Ghost-Book/)**
 
